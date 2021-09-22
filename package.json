@@ -2,7 +2,7 @@
   "name": "movies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Anton-Sidko.github.io/ReactMovies",
+  "homepage": "https://anton-sidko.github.io/ReactMovies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
